@@ -27,6 +27,8 @@ export const App = () => {
       <StatisticsInfo
         title="Upload stats"
         stats={statisticsData} />
+      <StatisticsInfo
+        stats={statisticsData} />
       <FriendsList
         friends={friendsData} />
       <TransactionHistory
