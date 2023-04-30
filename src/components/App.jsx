@@ -1,7 +1,7 @@
-import userData from "./userCard/user.json";
-import statisticsData from "./statistics/data.json";
-import friendsData from "./friendsList/friends.json"
-import transactionsData from "./transactionsHistory/transactions.json"
+import userData from "./data/user.json";
+import statisticsData from "./data/data.json";
+import friendsData from "./data/friends.json"
+import transactionsData from "./data/transactions.json"
 import { UserCard } from "./userCard/UserCard";
 import { StatisticsInfo } from "./statistics/Statistics";
 import { FriendsList } from "./friendsList/FriendsList";
