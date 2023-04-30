@@ -13,6 +13,7 @@ export const Container = styled.section`
       scale: 1.01;
       box-shadow: 0px 3px 2px rgba(10, 38, 1), 0px 4px 4px rgba(208, 214, 206),
       0px 4px 8px rgba(152, 163, 147);
+      cursor: pointer;
 `;
 
 export const Title = styled.h2`
